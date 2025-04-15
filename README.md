@@ -1,1 +1,3 @@
 # air_hockey
+
+Air hockey, a classic arcade game, thrives on fast-paced action and competitive dynamics. Modern game development enhances such experiences by incorporating intelligent systems and polished mechanics. This project introduces an enhanced 2D air hockey game built in Unity, where a human player competes against an AI opponent designed to mimic adaptive learning behaviours. Unlike traditional rule-based games, this implementation prioritizes realism, immersion, and challenge, aiming to rival the precision of tasks. By focusing on game design, mechanics, and AI sophistication, we explore how compact systems can deliver rich player experiences across platforms.
